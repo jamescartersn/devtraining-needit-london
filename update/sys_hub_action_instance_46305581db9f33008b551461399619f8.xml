@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">fbfd9c81db1f33008b5514613996190a</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Challenge">8a4849c9db5f33008b55146139961993</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 12:35:46</sys_created_on>
+        <sys_id>46305581db9f33008b551461399619f8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_46305581db9f33008b551461399619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-14 12:35:46</sys_updated_on>
+        <ui_id>653dd58f-839a-4636-aa09-57505fd9d764</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=46305581db9f33008b551461399619f8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>46305581db9f33008b551461399619f8</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 12:35:46</sys_created_on>
+        <sys_id>82305581db9f33008b551461399619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-14 12:35:46</sys_updated_on>
+        <value/>
+        <variable display_value="">70e0e085db1f33008b55146139961922</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=46305581db9f33008b551461399619f8"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>days_ago</field>
+        <id>46305581db9f33008b551461399619f8</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 12:35:46</sys_created_on>
+        <sys_id>02305581db9f33008b551461399619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-14 12:35:46</sys_updated_on>
+        <table>var__m_sys_hub_action_input_fbfd9c81db1f33008b5514613996190a</table>
+        <value>{{3f0c9ab6-b828-4529-92a3-7bcaaf98c171.property_value_}}</value>
+    </sys_element_mapping>
+</record_update>
